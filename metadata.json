@@ -1,0 +1,7 @@
+{
+  "name": "Bethlehem Kudumba Unit — Character Archive",
+  "description": "Interactive character archive and 3D character experience for Bethlehem Kudumba Unit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
